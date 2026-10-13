@@ -8,7 +8,9 @@
 
 ## Windows 다운로드
 
-[최신 릴리스](https://github.com/Nukcanon/InternalNCrush-releases/releases/latest)에서 `InternalNCrush_Windows_v*.zip`을 내려받아 **전체 압축을 푼 뒤** `InternalNCrush.exe`를 실행하세요. `.pck` 파일은 EXE 옆에 있어야 합니다. Docker는 Windows 게임 실행에 필요하지 않습니다.
+[최신 릴리스](https://github.com/Nukcanon/InternalNCrush-releases/releases/latest)에서 `InternalNCrush_Setup_v*.exe`를 내려받아 실행하세요. 이용 조건에 동의하면 설치되고, 바탕 화면과 시작 메뉴에 바로가기가 생깁니다. 서명되지 않은 파일이라 "Windows의 PC 보호" 창이 뜨면 **추가 정보 → 실행**을 누르세요. 새 버전도 같은 방법으로 받아 실행하면 업데이트됩니다. 제거는 Windows 설정의 앱 목록에서 합니다.
+
+설치하지 않고 쓰려면 `InternalNCrush_Windows_v*.zip`을 내려받아 **전체 압축을 푼 뒤** `InternalNCrush.exe`를 실행하세요. `.pck` 파일은 EXE 옆에 있어야 합니다. Docker는 Windows 게임 실행에 필요하지 않습니다.
 
 참가자와 방장은 같은 버전을 사용해야 합니다. 게임 안에서 새 버전이 나오면 알려 줍니다.
 
