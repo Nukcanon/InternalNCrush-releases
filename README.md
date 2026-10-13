@@ -57,4 +57,4 @@ HTTPS/WSS 인증서·호스트 이름 검증, 짧은 입장 승인, 메시지 �
 
 ## 라이선스
 
-각 다운로드에 라이선스 파일이 포함되어 있습니다. 게임 코드는 MIT 라이선스입니다. Windows ZIP은 `licenses` 폴더(`GAME_LICENSE.txt` 등 에셋·글꼴·소리 라이선스와 출처), Web ZIP은 `licenses` 폴더에 같은 종류의 파일을 담습니다. NAS ZIP에는 서버 파일만 있으며 별도의 라이선스 파일은 아직 포함되어 있지 않습니다.
+각 다운로드에 라이선스 파일이 포함되어 있습니다. 2.0.9 판부터 게임은 무료로 쓸 수 있지만, 허락 없는 재배포·판매·수정본 배포는 금지됩니다(이용 조건 전문은 `licenses` 폴더의 `GAME_LICENSE.txt`와 [게임 페이지](https://nukcanon.github.io/nukcanon/internal-n-crush.html) 참고). 2.0.8까지의 판은 그 판에 들어 있는 MIT 라이선스를 따릅니다. 게임에 들어 있는 엔진·글꼴·모델·소리는 각자의 라이선스를 따릅니다. Windows ZIP은 `licenses` 폴더(`GAME_LICENSE.txt` 등 에셋·글꼴·소리 라이선스와 출처), Web ZIP은 `licenses` 폴더에 같은 종류의 파일을 담습니다. NAS ZIP에는 서버 파일만 있으며 별도의 라이선스 파일은 아직 포함되어 있지 않습니다.
